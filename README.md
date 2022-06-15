@@ -15,9 +15,12 @@
 
 #### TensorBoard
 
-安裝指令
-`pip install tensorboard`
+- 安裝指令
 
-執行
-`tensorboard --logdir=runs`
-預設資料會放在runs資料夾
+    `pip install tensorboard`
+
+- 執行
+
+    `tensorboard --logdir=runs`
+
+    預設資料會放在runs資料夾
